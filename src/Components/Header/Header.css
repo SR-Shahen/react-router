@@ -1,0 +1,9 @@
+.nav a{
+    text-decoration: none;
+    margin: 20px;
+    
+}
+.nav a:hover{
+    color: blue;
+    background-color: rgb(140, 226, 226);
+}
